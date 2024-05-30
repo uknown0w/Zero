@@ -28,3 +28,6 @@
  **굵게**
  또는 __이렇게__
  글자 *기울이기*
+
+
+![고양이이미지](https://github.com/uknown0w/Zero/blob/main/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C.jfif)
